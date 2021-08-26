@@ -1,2 +1,2 @@
 # DataStructuresAndAlgorithms
-I add algos here for better understanding.
+I add DS and algos here for better understanding.
